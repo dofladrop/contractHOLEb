@@ -1,5 +1,5 @@
 #[starknet::contract]
-mod MyToken {
+mod HOLEb {
     use starknet::ContractAddress;
     use openzeppelin::access::ownable::Ownable;
     use openzeppelin::token::erc20::ERC20;
